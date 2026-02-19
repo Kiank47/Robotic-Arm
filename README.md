@@ -1,9 +1,9 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Kian Kabir, Computer Engineering Student (2028)
+KKabir@vt.edu
 
 ## Mentor
-MENTOR NAME HERE
+None
 
 ## Current Status
 IN PROGRESS
@@ -47,3 +47,4 @@ Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu vel
 ## Log
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+
